@@ -1,5 +1,5 @@
 # cracking-the-coding-interview
-This repository will contain my soluitons and the **Links to online judge platforms if the question is avaliable on a particular platform**. This would help to actually code and submit the solutions before verifying from the book. Also, my Java Solutions to [Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/).
+This repository will contain the **Links to online judge platforms if the question is avaliable on a particular platform**. This would help to actually code and submit the solutions for all corner cases, before verifying from the book. Also, my Java Solutions to [Cracking the Coding Interview, 6th Edition](http://www.crackingthecodinginterview.com/).
 # Chapter 1 - Arrays & Strings
 | # | Title | Online Judge | My Solutions |
 |---| ----- | -------- | ---------- |
