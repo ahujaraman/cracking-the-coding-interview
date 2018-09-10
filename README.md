@@ -7,7 +7,7 @@ This repository will contain my soluitons and the **Links to online judge platfo
 |2|[String Permutation - GFG](https://www.geeksforgeeks.org/check-if-two-strings-are-permutation-of-each-other/)|[Leetcode-Similar](https://leetcode.com/problems/permutation-in-string/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question2.java)|
 |3|Urlify|[GeeksforGeeks](https://www.geeksforgeeks.org/urlify-given-string-replace-spaces/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question3.java)|
 |4|Palindrome Permutation|[Leetcode](https://leetcode.com/articles/palindrome-permutation/#solution)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question4.java)|
-|5|One Edit Away|[Leetcode_Hard](https://leetcode.com/problems/edit-distance/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question5.java)|
+|5|One Edit Away|[Leetcode-Hard](https://leetcode.com/problems/edit-distance/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question5.java)|
 |6|String Compression|[Leetcode-Easy](https://leetcode.com/problems/string-compression/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question6.java)|
 |7|Rotate Matrix|[Leetcode-Medium](https://leetcode.com/problems/rotate-image/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question7.java)|
 |8|Zero Matrix|[Leetcode-Medium](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question8.java)|
