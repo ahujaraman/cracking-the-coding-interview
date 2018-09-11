@@ -12,3 +12,8 @@ This repository will contain the **Links to online judge platforms if the questi
 |7|Rotate Matrix|[Leetcode-Medium](https://leetcode.com/problems/rotate-image/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question7.java)|
 |8|Zero Matrix|[Leetcode-Medium](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question8.java)|
 |9|String Rotation|[Leetcode-Easy](https://leetcode.com/problems/rotate-string/description/)|[Java](cracking-the-coding-interview/Chapter1-Arrays&Strings/Question8.java)|
+
+# Chapter 2 - Linked Lists
+| # | Title | Online Judge | My Solutions |
+|---| ----- | -------- | ---------- |
+|1|[Remove Duplicates - GFG](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/)|[leetCode-Medium](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/tree/master/My-Solutions/remove-duplicates-from-sorted-list-ii.java)|
