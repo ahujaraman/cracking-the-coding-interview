@@ -23,3 +23,6 @@ This repository will contain the **Links to online judge platforms if the questi
 |6|Palindrome|[LeetCode-Easy](https://leetcode.com/problems/palindrome-linked-list/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/palindrome-linked-list.java)|
 |7|Intersection|[LeetCode-Easy](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/intersection-of-two-linked-lists.java)|
 |8|Loop Detection|[LeetCode-Easy](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/ahujaraman/competitive-coding-leetcode/blob/master/My-Solutions/linked-list-cycle.java)|
+
+# Geeksforgeeks
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
